@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital Game Space CI 437.Plugins", "Digital Game Space CI 437.Plugins.csproj", "{2D6C0EC4-279B-387B-B192-3177409EADEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital Game Space CI 437", "Digital Game Space CI 437.csproj", "{115D1235-3FF6-4B49-4E15-B7BECCCA38F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital Game Space CI 437.Editor.Plugins", "Digital Game Space CI 437.Editor.Plugins.csproj", "{F6AD4101-5C7D-6600-421F-1B7FBFE21C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D6C0EC4-279B-387B-B192-3177409EADEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6C0EC4-279B-387B-B192-3177409EADEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6C0EC4-279B-387B-B192-3177409EADEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6C0EC4-279B-387B-B192-3177409EADEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115D1235-3FF6-4B49-4E15-B7BECCCA38F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115D1235-3FF6-4B49-4E15-B7BECCCA38F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115D1235-3FF6-4B49-4E15-B7BECCCA38F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115D1235-3FF6-4B49-4E15-B7BECCCA38F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AD4101-5C7D-6600-421F-1B7FBFE21C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AD4101-5C7D-6600-421F-1B7FBFE21C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AD4101-5C7D-6600-421F-1B7FBFE21C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AD4101-5C7D-6600-421F-1B7FBFE21C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
